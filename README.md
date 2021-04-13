@@ -11,7 +11,7 @@ Please refer to [this IBM Developer tutorial](https://developer.ibm.com/tutorial
 This repository is an example Node-RED application that can be deployed into
 IBM Cloud with only a couple clicks. Try it out for yourself right now by clicking:
 
-[Deploy to IBM Cloud](https://bluemix.net/deploy?repository=https://github.com/ibmets/node-red-bluemix-starter.git)
+[Deploy to IBM Cloud](https://bluemix.net/deploy?repository=https://github.com/IBMDeveloperUK/node-red-bluemix-starter.git)
 
 ### How does this work?
 
